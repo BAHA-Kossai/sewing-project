@@ -51,9 +51,3 @@ A Flutter application designed to help tailors and sewing businesses manage thei
 - Dart enabled
 - Emulator or physical device
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/sewing-tracker-app.git
-   cd sewing-tracker-app
